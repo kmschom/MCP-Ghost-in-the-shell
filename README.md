@@ -26,3 +26,8 @@ cpubound.c: example process for the MCP to call
 iobound.c: example process for the MCP to call
 
 tar.txt: command line to tar files for submission
+
+ToDo:
+Correct the scheduling
+Finish part4
+Get valgrind to run with no errors
