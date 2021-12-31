@@ -1,0 +1,3 @@
+#!/bin/bash
+
+tar -cf kschombe_951763983_Project2.tar part*.c string_parser.c *.h Makefile P2report.pdf
